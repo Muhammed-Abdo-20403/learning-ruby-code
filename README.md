@@ -1,2 +1,2 @@
-# ruby-learners
-All  I Taked 
+# ruby-code
+Intro to ruby language 
